@@ -2,4 +2,4 @@
 
 ##BroadcastReceiver
 ####1.ConnectionChangeReceiver
-监控网络变化的广播
+监控网络变化的广播[ConnectionChangeReceiver](https://github.com/BaronZ/android-common/blob/master/src/com/baron/broadcastreceiver/ConnectionChangeReceiver.java "BroadcastReceiver")
